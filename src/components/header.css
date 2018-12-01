@@ -1,0 +1,18 @@
+.header {
+  background-color: #08C;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1.45rem 1.0875rem;
+
+  & a {
+    background-color: black;
+    color: white;
+  }
+}
+
+.link {
+  text-decoration: none;
+}
